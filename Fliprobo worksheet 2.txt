@@ -1,0 +1,56 @@
+SQL WORKSHEET 2:
+
+Q1: D) Unique
+Q2: D) none of them ( A coulmn can contain null values by default)
+Q3: A) Each entry must be unique
+Q4: D) All of the above
+Q5: B) Foreign key
+Q6: C) 2
+Q7: A) one to many
+Q8: C) one to one
+Q9: A) delivery ID
+Q10: D) 2
+Q11: C) one to one
+Q12: C) Table
+Q13: A) Insert in to
+Q14: B) and C)
+Q15: B) A blood group can only contain characters
+
+MACHINE LEARNING ASSIGNMENT 2:
+
+Q1: A) 2 only
+Q2: D) 1 2 and 4 
+Q3: A) True
+Q4: A) Capping only
+Q5: C) 2
+Q6: B) No
+Q7: A) Yes
+Q8: D) All of the above 
+Q9: C) K-modes clustering algorithm
+Q10: D) All of the above will help in improvement
+Q11: D) All of the above
+
+Q12: Yes, K-means is sensitive to outliers, for the same reason a box plot is not able to give the full  picture of the distribution, as it takes the mean; it is highly sensitive to very big or very small values.
+
+Q13: K-means can handle big data and it always converges.
+
+Q14: No, K-means is not deterministic; as it selects a random seed for initial value; and depending on initial value the alrorithm may give different results. it also has to be noted if the same seed is selected then the result is repeatable, but if not; K-means is a non detemernistic algorithm.
+
+
+STATISTICS ASSIGNMENT 2:
+
+Q1: D) None
+Q2: C) 12
+Q3: A) An approximate indicator of how nmumbers vary from the mean
+Q4: B) Mutually exclusive
+Q5: B) Summarizing and explaining a specific set of data
+Q6: B) Data set
+Q7: A) 2 or more
+Q8: B) Scatterplot
+Q9: D) Analysis of variance
+Q10: A) Z-score
+Q11: C) mean
+Q12: D) 400005.2
+Q13: D) Mean
+Q14: A) Descriptive and inferences
+Q15: D) H-L
